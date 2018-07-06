@@ -1,0 +1,31 @@
+<H1>Suivi contrat maintenance</H1>
+<br></br>
+<br>804 bis rue de la Bergeresse</br>
+<br>45160 OLIVET</br>
+<br>0679963086</br>
+<br>email : courriel@christophe-informatique.fr</br>
+<br></br>
+<br>Client : [nom]</br>
+<br></br>
+<br>Date de réalisation : [dateReal]</br>
+<br></br>
+<br>Reference de la facture en cours : [reference]</br>
+<br>Date de la dernière intervention : [date]</br>
+<br>Solde heures : [solde]h</br>
+<br></br>
+<br></br>
+<br>DESCRIPTION DES TACHES EFFECTUEES :</br>
+<br>[description]</br>
+<br></br>
+<br>Durée de l'intervention : [duree]</br>
+<br>Nouveau solde heures : [Newsolde]</br>
+<br></br>
+<br></br>
+<br>Commentaires / remarques du client :</br>
+<br>[remarque]</br>
+<br></br>
+<br>Signature : Christophe Informatique</br>
+<br></br>
+<br>Signature du client :</br>
+<br></br>
+<img src="cid:image" style="width: 100px;" />

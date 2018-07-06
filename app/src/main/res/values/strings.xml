@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SendBill</string>
+    <string name="button">Button</string>
+    <string name="clients">Clients</string>
+    <string name="facture">Facture</string>
+</resources>
